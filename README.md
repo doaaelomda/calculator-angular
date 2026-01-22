@@ -41,22 +41,6 @@ A simple and responsive **Calculator app** built with **Angular** to perform bas
 
 ---
 
-calculator-angular/
-├── src/
-│ ├── app/
-│ │ ├── components/
-│ │ ├── services/ (if any)
-│ ├── assets/
-│ ├── environments/
-│ └── styles.scss
-├── angular.json
-├── package.json
-├── README.md
-└── tsconfig.json
-
-
----
-
 ## 🚀 Installation & Run
 To run this project locally:
 
