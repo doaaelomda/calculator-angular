@@ -1,27 +1,91 @@
-# Calcuat
+# Calculator-Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+Hi 👋, I'm **Doaa Elsayed**  
+Frontend Developer | Angular Enthusiast  
 
-## Development server
+🧮 Passionate about building clean and user-friendly web applications using Angular  
+📱 This project demonstrates building a **Calculator app** using Angular components and logic
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🔗 Connect with me
+- 💼 LinkedIn: https://www.linkedin.com/in/doaaelomda/
+- 💻 GitHub: https://github.com/doaaelomda
+- 📧 Email: delomda8@gmail.com
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🛠️ Technologies Used
+- **Framework:** Angular  
+- **Language:** TypeScript  
+- **Markup:** HTML  
+- **Styles:** CSS / SCSS  
+- **Tooling:** Angular CLI, npm
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 🧮 Project: Angular Calculator
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+A simple and responsive **Calculator app** built with **Angular** to perform basic arithmetic operations.
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## ✨ Features
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 🧹 Clear / Reset  
+- 📱 Responsive UI  
+- 🧠 Built using Angular components and event binding
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+calculator-angular/
+├── src/
+│ ├── app/
+│ │ ├── components/
+│ │ ├── services/ (if any)
+│ ├── assets/
+│ ├── environments/
+│ └── styles.scss
+├── angular.json
+├── package.json
+├── README.md
+└── tsconfig.json
+
+
+---
+
+## 🚀 Installation & Run
+To run this project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/doaaelomda/calculator-angular
+
+
+Go to the project directory
+
+cd calculator-angular
+
+
+Install dependencies
+
+npm install
+
+
+Serve the app
+
+ng serve
+
+
+Then open your browser at:
+
+http://localhost:4200/
+
+📌 Status
+
+✅ Completed — Functional Angular calculator app
+
+## 📂 Project Structure
